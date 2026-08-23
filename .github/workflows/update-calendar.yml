@@ -19,7 +19,7 @@ jobs:
           python-version: "3.12"
 
       - name: Generate public_skate.ics
-        run: python pegula_ics.py --out public_skate.ics --verbose
+        run: python pegula_ics.py --out public_skate.ics --print
 
       - name: Commit if the schedule changed
         run: |
