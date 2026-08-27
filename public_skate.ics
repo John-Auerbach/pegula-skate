@@ -9,17 +9,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:finnly-5124792@pegula.finnlyconnect.com
-DTSTAMP:20260826T160000Z
-DTSTART:20260826T160000Z
-DTEND:20260826T173000Z
-SUMMARY:Public Skating - Community Rink
-LOCATION:Pegula Ice Arena - Community Rink
-DESCRIPTION:Activity: Public Skate - Spring/Summer 2026 | Pegula Ice Arena
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:finnly-4729120@pegula.finnlyconnect.com
 DTSTAMP:20260828T234500Z
 DTSTART:20260828T234500Z
@@ -68,8 +57,8 @@ UID:finnly-5585533@pegula.finnlyconnect.com
 DTSTAMP:20260905T000000Z
 DTSTART:20260905T000000Z
 DTEND:20260905T013000Z
-SUMMARY:Public Skating - Community Rink
-LOCATION:Pegula Ice Arena - Community Rink
+SUMMARY:Public Skating - Varsity Rink
+LOCATION:Pegula Ice Arena - Varsity Rink
 DESCRIPTION:Activity: Public Skate - Fall/Winter 26-27 | Pegula Ice Arena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -156,6 +145,17 @@ UID:finnly-5585123@pegula.finnlyconnect.com
 DTSTAMP:20260923T160000Z
 DTSTART:20260923T160000Z
 DTEND:20260923T173000Z
+SUMMARY:Public Skating - Community Rink
+LOCATION:Pegula Ice Arena - Community Rink
+DESCRIPTION:Activity: Public Skate - Fall/Winter 26-27 | Pegula Ice Arena
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:finnly-5585245@pegula.finnlyconnect.com
+DTSTAMP:20260927T153000Z
+DTSTART:20260927T153000Z
+DTEND:20260927T170000Z
 SUMMARY:Public Skating - Community Rink
 LOCATION:Pegula Ice Arena - Community Rink
 DESCRIPTION:Activity: Public Skate - Fall/Winter 26-27 | Pegula Ice Arena
